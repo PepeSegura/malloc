@@ -12,9 +12,6 @@
 /* Bonus: make malloc thread_safe */
 # include <pthread.h>
 
-/* For testing */
-# include <stdio.h>
-
 /* Allowed Functions
 
 void	*mmap(void *addr, size_t len, int prot, int flags, int fd, off_t offset);
